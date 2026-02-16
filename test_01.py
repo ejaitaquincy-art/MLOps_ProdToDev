@@ -1,0 +1,1 @@
+print("Quincy is Italian")
